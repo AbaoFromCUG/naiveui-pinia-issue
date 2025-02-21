@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import {N}
+import { NButton } from 'naive-ui';
 
 import { useBarStore } from './store';
 
